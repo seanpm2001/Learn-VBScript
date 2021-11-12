@@ -3,6 +3,8 @@
 
 ### Learning VBScript
 
+![/VBSccript_file_format_icon.png](/VBSccript_file_format_icon.png)
+
 I know very little about VBScript, and I don't know the DotNet version.
 
 I only know how to make fake error messages and comments at the moment.
